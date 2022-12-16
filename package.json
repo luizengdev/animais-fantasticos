@@ -1,13 +1,10 @@
 {
-  "name": "animais-webpack",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
   "scripts": {
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.5",
