@@ -15,3 +15,6 @@
  </ul>
  
 <hr>
+<h2>Layout do Projeto Finalizado</h2>
+
+![animais-fantasticos](https://user-images.githubusercontent.com/102761014/190192188-6cbfe440-24c0-42bf-b257-10791b683d04.png)
